@@ -8,4 +8,5 @@ def Tinh(R):
         print("Chu vi la :", CV)
         print("Dien tich la :", DT)
 print("Tinh Chu Vi, Dien Tich Hinh Tron")
-Tinh(10)
+R=float(input("Nhap ban kinh R:")
+Tinh(R)
